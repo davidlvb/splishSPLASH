@@ -1,0 +1,28 @@
+# Set up colour picking presets
+segmentColours <-	list("c.Bernadeta" = "c.Bernadeta",
+                       "c.GreyOnly" = "c.GreyOnly",
+                       "c.Kevin-16" = "c.Kevin-16", 
+                       "c.Kevin-25" = "c.Kevin-25",
+                       "Spectral" = "Spectral",
+                       "Set1" = "Set1",
+                       "Set2" = "Set2",
+                       "Set3" = "Set3",
+                       "Pastel1" = "Pastel1",
+                       "Pastel2" = "Pastel2",
+                       "Dark2" = "Dark2",
+                       "Accent" = "Accent",
+                       "Blues" = "Blues", 
+                       "Greens" = "Greens",
+                       "Reds" = "Reds",
+                       "Oranges" = "Oranges",
+                       "Purples" = "Purples",
+                       "Greys" = "Greys")
+
+linkColours <- list("Bernadeta" = "Bernadeta",
+                    "YlGnBu" = "YlGnBu",
+                    "Blues" = "Blues", 
+                    "Greens" = "Greens",
+                    "Reds" = "Reds",
+                    "Oranges" = "Oranges",
+                    "Purples" = "Purples",
+                    "Greys" = "Greys")
